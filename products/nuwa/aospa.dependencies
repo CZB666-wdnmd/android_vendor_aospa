@@ -1,7 +1,7 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_nuwa",
+        "repository":   "CZB666-wdnmd/aospa_android_device_xiaomi_nuwa",
         "target_path":  "device/xiaomi/nuwa",
         "revision":     "uvite"
     },
@@ -14,7 +14,7 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_sm8550-common",
+        "repository":   "CZB666-wdnmd/aospa_android_device_xiaomi_sm8550-common",
         "target_path":  "device/xiaomi/sm8550-common",
         "revision":     "uvite"
     },
